@@ -143,6 +143,25 @@ nav ul li a:hover::after{
     display: block;
 }
 
+
+
+.tab-contents a:link{
+    text-decoration: none;
+    color: black;
+}
+.tab-contents a:visited{
+    text-decoration: none;
+    color: black;
+}
+.tab-contents a:hover{
+    text-decoration: none;
+}
+.tab-contents a:active{
+    text-decoration: none;
+}
+
+
+
 /* ----------------services------------- */
 #services{
     padding: 0 0;
@@ -261,6 +280,26 @@ nav ul li a:hover::after{
 .contact-left{
     flex-basis: 35%;
 }
+
+
+
+.gmail a:link{
+    text-decoration: none;
+    color: black;
+}
+.gmail a:visited{
+    text-decoration: none;
+    color: black;
+}
+.gmail a:hover{
+    text-decoration: none;
+}
+.gmail a:active{
+    text-decoration: none;
+}
+
+
+
 .contact-right{
     flex-basis: 60%;
 }
@@ -330,6 +369,25 @@ form .btn2{
 nav .fas{
     display: none;
 }
+
+.email:link{
+    text-decoration: none;
+    color: #000000;
+}
+.email:visited{
+    text-decoration: none;
+    color: #000000;
+}
+.email:hover{
+    text-decoration: none;
+    color: #000000;
+}
+.email:active{
+    text-decoration: none;
+    color: #000000;
+}
+
+
 
 @media only screen and (max-width: 600px){
     #header{
