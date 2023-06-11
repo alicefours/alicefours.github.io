@@ -198,7 +198,7 @@ nav ul li a:hover::after{
     display: inline-block;
 }
 .services-list div:hover{
-    background: #b960cf;
+    background: #f3c3ff;
     transform: translateY(-10px);
 }
 /* -------portfolio----------- */
