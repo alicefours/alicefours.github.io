@@ -14,7 +14,7 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/purple_background.jpg);
+    background-image: url(images/blue_background1.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -50,7 +50,7 @@ nav ul li a::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #a022c0;
+    background: #00A7E1;
     position: absolute;
     left: 0;
     bottom: -6px;
@@ -68,7 +68,7 @@ nav ul li a:hover::after{
     margin-top: 20px;
 }
 .header-text h1 span{
-    color: #a022c0;
+    color: #00A7E1;
 }
 /* -----------about--------------- */
 #about{
@@ -118,7 +118,7 @@ nav ul li a:hover::after{
     content: '';
     width: 0;
     height: 3px;
-    background: #a022c0;
+    background: #00A7E1;
     position: absolute;
     left: 0;
     bottom: -8px;
@@ -134,7 +134,7 @@ nav ul li a:hover::after{
     margin: 10px 0;
 }
 .tab-contents ul li span{
-    color: #a022c0;
+    color: #00A7E1;
     font-size: 14px;
 }
 .tab-contents{
@@ -198,7 +198,7 @@ nav ul li a:hover::after{
     display: inline-block;
 }
 .services-list div:hover{
-    background: #f3c3ff;
+    background: #97D4E9;
     transform: translateY(-10px);
 }
 /* -------portfolio----------- */
@@ -246,7 +246,7 @@ nav ul li a:hover::after{
 }
 .layer a{
     margin-top: 20px;
-    color: #a022c0;
+    color: #00A7E1;
     text-decoration: none;
     font-size: 18px;
     line-height: 60px;
@@ -266,7 +266,7 @@ nav ul li a:hover::after{
     display: block;
     margin: 50px auto;
     width: fit-content;
-    border: 1px solid #a022c0;
+    border: 1px solid #00A7E1;
     padding: 14px 50px;
     border-radius: 6px;
     text-decoration: none;
@@ -274,7 +274,7 @@ nav ul li a:hover::after{
     transition: background 0.5s;
 }
 .btn:hover{
-    background: #a022c0;
+    background: #00A7E1;
 }
 
 /* ---------contact-------- */
@@ -308,7 +308,7 @@ nav ul li a:hover::after{
     margin-top: 30px;
 }
 .contact-left p i{
-    color: #a022c0;
+    color: #00A7E1;
     margin-right: 15px;
     font-size: 25px;
 }
@@ -324,12 +324,12 @@ nav ul li a:hover::after{
     transition: transform 0.5s;
 }
 .social-icons a:hover{
-    color: #a022c0;
+    color: #00A7E1;
     transform: translateY(-5px);
 }
 .btn.btn2{
     display: inline-block;
-    background: #a022c0;
+    background: #00A7E1;
 }
 .contact-right form{
     width: 100%;
@@ -360,10 +360,10 @@ form .btn2{
     margin-top: 20px;
 }
 .copyright i{
-    color: #a022c0;
+    color: #00A7E1;
 }
 .copyright a{
-    color: #a022c0;
+    color: #00A7E1;
     text-decoration: none;
 }
 /* -----------------css for small screens--------- */
@@ -406,7 +406,7 @@ nav .fas{
         font-size: 25px;
     }
     nav ul{
-        background: #fbbeff;
+        background: #97D4E9;
         position: fixed;
         top: 0;
         right: -200px;
